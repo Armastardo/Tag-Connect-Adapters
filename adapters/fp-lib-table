@@ -1,0 +1,5 @@
+(fp_lib_table
+  (lib (name "marbastlib-various")(type "KiCad")(uri "C:/Users/bbr_b/Documents/GitHub/Tag-Connect-Adapters/marbastlib/marbastlib-various.pretty")(options "")(descr ""))
+  (lib (name "dopamine")(type "KiCad")(uri "C:/Users/bbr_b/Documents/GitHub/Tag-Connect-Adapters/qw-footprints/dopamine")(options "")(descr ""))
+  (lib (name "qw new logo")(type "KiCad")(uri "C:/Users/bbr_b/Documents/GitHub/Tag-Connect-Adapters/qw-footprints/qw new logo")(options "")(descr ""))
+)
